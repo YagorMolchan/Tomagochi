@@ -1,0 +1,12 @@
+F:\Tomagochi\Tomagochi.BLL\bin\Debug\net6.0\Tomagochi.BLL.deps.json
+F:\Tomagochi\Tomagochi.BLL\bin\Debug\net6.0\Tomagochi.BLL.dll
+F:\Tomagochi\Tomagochi.BLL\bin\Debug\net6.0\Tomagochi.BLL.pdb
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.csproj.AssemblyReference.cache
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.AssemblyInfoInputs.cache
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.AssemblyInfo.cs
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.csproj.CoreCompileInputs.cache
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.dll
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\refint\Tomagochi.BLL.dll
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\Tomagochi.BLL.pdb
+F:\Tomagochi\Tomagochi.BLL\obj\Debug\net6.0\ref\Tomagochi.BLL.dll

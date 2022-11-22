@@ -1,0 +1,14 @@
+F:\Tomagochi\Tomagochi.DAL\bin\Debug\net6.0\Tomagochi.DAL.deps.json
+F:\Tomagochi\Tomagochi.DAL\bin\Debug\net6.0\Tomagochi.DAL.runtimeconfig.json
+F:\Tomagochi\Tomagochi.DAL\bin\Debug\net6.0\Tomagochi.DAL.dll
+F:\Tomagochi\Tomagochi.DAL\bin\Debug\net6.0\Tomagochi.DAL.pdb
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.csproj.AssemblyReference.cache
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.AssemblyInfoInputs.cache
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.AssemblyInfo.cs
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.csproj.CoreCompileInputs.cache
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.dll
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\refint\Tomagochi.DAL.dll
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.pdb
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\Tomagochi.DAL.genruntimeconfig.cache
+F:\Tomagochi\Tomagochi.DAL\obj\Debug\net6.0\ref\Tomagochi.DAL.dll
