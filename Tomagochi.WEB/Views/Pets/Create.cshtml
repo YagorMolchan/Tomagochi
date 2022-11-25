@@ -1,4 +1,5 @@
-﻿@model Tomagochi.WEB.Models.Forms.PetFormModel
+﻿@using Tomagochi.WEB.Components
+@model Tomagochi.WEB.Models.Forms.PetFormModel
 
 <h3>Create Pet</h3>
 
@@ -7,49 +8,7 @@
         <h6>Name</h6>
         <input type="text" class="form-control pet-name"/>
     </div>
-    <div class="form-group">
-        <h6>Body</h6>
-        <div class="image-container">
-            @foreach (var item in Model.Bodies)
-            {
-                <button class="image-button" id="@item" onclick="onPetClicked(@item)">
-                    <img src="@item" width="80" height="80"/>
-                </button>
-            }
-        </div>
-    </div>
-    <div class="form-group">
-        <h6>Eyes</h6>
-        <div class="image-container">
-            @foreach (var item in Model.Eyes)
-            {
-                <button class="image-button" id="@item" onclick="onPetClicked(@item)">
-                    <img src="@item" width="80" height="80"/>
-                </button>
-            }
-        </div>
-    </div>
-    <div class="form-group">
-        <h6>Nose</h6>
-        <div class="image-container">
-            @foreach (var item in Model.Noses)
-            {
-                <button class="image-button" id="@item" onclick="onPetClicked(@item)">
-                    <img src="@item" width="80" height="80"/>
-                </button>
-            }
-        </div>
-    </div>
-    <div class="form-group">
-        <h6>Mouth</h6>
-        <div class="image-container">
-            @foreach (var item in Model.Mouths)
-            {
-                <button class="image-button" id="@item" onclick="onPetClicked(@item)">
-                    <img src="@item" width="80" height="80"/>
-                </button>
-            }
-        </div>
-    </div>
-
+    <component type="typeof(PetCreate)" param-model="Model"  render-mode="ServerPrerendered"/>
+   
+    
 </form>

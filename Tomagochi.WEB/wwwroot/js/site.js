@@ -4,6 +4,7 @@
 // Write your JavaScript code.
 
 function onPetClicked(petId) {
+
     var btn = document.getElementById(petId);
     console.log("Pet");
 

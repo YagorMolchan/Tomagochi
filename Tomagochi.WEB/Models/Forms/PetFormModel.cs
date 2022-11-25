@@ -1,10 +1,28 @@
-﻿using System.Text.Json.Serialization;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Text.Json.Serialization;
 
 namespace Tomagochi.WEB.Models.Forms
 {
     public class PetFormModel
     {
         public string Name { get; set; }
+
+        public string Body { get; set; }
+
+        //public SelectList Bodies { get; set; }
+
+        public string Eye { get; set; }
+
+        //public SelectList Eyes { get; set; }
+
+        public string Mouth { get; set; }
+
+        //public SelectList Mouths { get; set; }
+
+        public string Nose { get; set; }
+
+        //public SelectList Noses { get; set; }
+
 
         [JsonIgnore]
         public List<string> Bodies { get; set; }
