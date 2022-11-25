@@ -18,7 +18,15 @@ namespace Tomagochi.WEB.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            PetFormModel model = new PetFormModel();
+            return View(model);
+        }
+
         
+        [HttpPost]
         public IActionResult Create(PetFormModel model)
         {
             if (ModelState.IsValid)

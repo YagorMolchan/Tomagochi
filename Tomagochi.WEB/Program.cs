@@ -21,6 +21,8 @@ builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfi
 
 builder.Services.AddScoped<IPetRepository, PetRepository>();
 
+builder.Services.AddServerSideBlazor();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -63,6 +65,8 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapBlazorHub();
+
 app.MapRazorPages();
 
 app.Run();

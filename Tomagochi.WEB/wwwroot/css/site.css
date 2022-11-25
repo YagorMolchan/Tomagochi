@@ -35,3 +35,7 @@ body {
 .form-group .pet-name{
     width: 40%;
 }
+
+.pet-container{
+    display: flex;
+}
