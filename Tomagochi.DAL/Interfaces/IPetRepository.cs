@@ -7,12 +7,11 @@ using Tomagochi.DAL.Entities;
 
 namespace Tomagochi.DAL.Interfaces
 {
-    public interface IPetRepository
+    public interface IPetRepository:IRepositoryBase<Pet>
     {
-        List<Pet> Pets { get;  }
+        IEnumerable<Pet> Pets { get;  }
 
-        void Create(Pet pet);
+        void CreatePet(Pet pet);
 
-        void Save();
     }
 }

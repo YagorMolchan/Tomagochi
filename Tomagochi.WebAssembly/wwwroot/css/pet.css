@@ -1,0 +1,29 @@
+﻿.image-container {
+    display: flex;
+}
+
+.image-button {
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    vertical-align: middle;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.form-group .pet-name {
+    width: 40%;
+}
+
+.pet-container {
+    display: flex;
+}
+
+.pet-form{
+    width: 50%;
+}
+
+.pet-image{
+    width: 50%;
+}
