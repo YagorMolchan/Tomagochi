@@ -23,6 +23,9 @@ builder.Services.AddScoped<IPetRepository, PetRepository>();
 
 builder.Services.AddServerSideBlazor();
 
+builder.WebHost.UseWebRoot("wwwroot");
+builder.WebHost.UseStaticWebAssets();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

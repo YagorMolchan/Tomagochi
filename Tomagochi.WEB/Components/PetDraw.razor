@@ -1,7 +1,10 @@
 ﻿@using Microsoft.AspNetCore.Components.Web
 
-<div>
-    <img src="@Eyes" width="80" height="80" onchange="EyesChanged"/>
+<div @onchange="@(() => EyesChanged.InvokeAsync(eyes))">
+    @if (eyes is not null)
+    {
+        
+    }    
 </div>
 @*<div>
     <img src="@Nose" width="80" height="80" onchange="@((ChangeEventArgs e) => Nose = e.Value.ToString())"/>
@@ -14,12 +17,13 @@
 </div>*@
 
 @code {
-
     //[Parameter]
     //public string? Body { get; set; }
 
+    private string? eyes;
+
     [Parameter]
-    public string? Eyes { get; set; }
+    public EventCallback<string> EyesChanged { get; set; }
 
     //[Parameter]
     //public string? Nose { get; set; }
@@ -27,9 +31,9 @@
     //[Parameter]
     //public string? Mouth { get; set; }
 
-    private void EyesChanged(ChangeEventArgs e)
-    {
-        Eyes = e?.Value?.ToString();
-    }
+    //private void EyesChanged(ChangeEventArgs e)
+    //{
+    //    Eyes = e?.Value?.ToString();
+    //}
 
 }

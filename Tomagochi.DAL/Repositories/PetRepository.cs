@@ -9,25 +9,21 @@ using Tomagochi.DAL.Interfaces;
 
 namespace Tomagochi.DAL.Repositories
 {
-    public class PetRepository : IPetRepository
+    public class PetRepository : RepositoryBase<Pet>, IPetRepository
     {
         private readonly TomagochiDbContext _dbContext;
 
-        public PetRepository(TomagochiDbContext dbContext)
+        public PetRepository(TomagochiDbContext dbContext):base(dbContext)
         {
             _dbContext = dbContext;
         }
 
-        public List<Pet> Pets { get => _dbContext.Pets.ToList(); }
+        public IEnumerable<Pet> Pets { get => GetAll(); }
 
-        public void Create(Pet pet)
+        public void CreatePet(Pet pet)
         {
-            _dbContext.Pets.Add(pet);
+            Create(pet);
         }
-
-        public void Save()
-        {
-            _dbContext.SaveChanges();
-        }
+        
     }
 }
