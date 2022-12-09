@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tomagochi.WEB
 build_property.RootNamespace = Tomagochi.WEB
-build_property.ProjectDir = F:\Tomagochi\Tomagochi.WEB\
+build_property.ProjectDir = F:\Tomagochi\Tomagochi\Tomagochi.WEB\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Tomagochi\Tomagochi.WEB
+build_property.MSBuildProjectDirectory = F:\Tomagochi\Tomagochi\Tomagochi.WEB
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Tomagochi/Tomagochi.WEB/Components/PetCreate.razor]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Components/PetCreate.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQZXRDcmVhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Components/PetDraw.razor]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Components/PetDraw.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQZXREcmF3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Areas/Identity/Pages/_ViewStart.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Home/Index.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Home/Privacy.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Pets/Create.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Pets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Shared/Error.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Shared/_LoginPartial.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/_ViewImports.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/_ViewStart.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Tomagochi/Tomagochi.WEB/Views/Shared/_Layout.cshtml]
+[F:/Tomagochi/Tomagochi/Tomagochi.WEB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w0tijh8vy8

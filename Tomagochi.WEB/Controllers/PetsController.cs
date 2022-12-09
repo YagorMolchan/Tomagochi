@@ -31,7 +31,7 @@ namespace Tomagochi.WEB.Controllers
         {
             if (ModelState.IsValid)
             {
-
+                
             }
             return View(model);
         }
