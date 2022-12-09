@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj": {}
+    "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj": {}
   },
   "projects": {
-    "F:\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj": {
+    "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj",
+        "projectUniqueName": "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj",
         "projectName": "Tomagochi.BLL",
-        "projectPath": "F:\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj",
+        "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj",
         "packagesPath": "C:\\Users\\molch\\.nuget\\packages\\",
-        "outputPath": "F:\\Tomagochi\\Tomagochi.BLL\\obj\\",
+        "outputPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
-                "projectPath": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj"
+              "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
+                "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
+    "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
+        "projectUniqueName": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
         "projectName": "Tomagochi.DAL",
-        "projectPath": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
+        "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
         "packagesPath": "C:\\Users\\molch\\.nuget\\packages\\",
-        "outputPath": "F:\\Tomagochi\\Tomagochi.DAL\\obj\\",
+        "outputPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "F:\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj": {
+    "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj",
+        "projectUniqueName": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj",
         "projectName": "Tomagochi.WebAssembly",
-        "projectPath": "F:\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj",
+        "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\Tomagochi.WebAssembly.csproj",
         "packagesPath": "C:\\Users\\molch\\.nuget\\packages\\",
-        "outputPath": "F:\\Tomagochi\\Tomagochi.WebAssembly\\obj\\",
+        "outputPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,11 +182,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj": {
-                "projectPath": "F:\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj"
+              "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj": {
+                "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj"
               },
-              "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
-                "projectPath": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj"
+              "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj": {
+                "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj"
               }
             }
           }
@@ -201,6 +201,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Blazored.Toast": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.4, )"
@@ -209,6 +213,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

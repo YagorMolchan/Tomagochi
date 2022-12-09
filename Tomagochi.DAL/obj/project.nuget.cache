@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrdbEOHdljkzZJpAtae9Oq2goCf7En3tkIfMoq33rQ29MtY9Fq23x7qVTqTAd8KFvZ9n/s60McUMJ3L9N909UQ==",
+  "dgSpecHash": "Ay2TGMZS7z4GirkZzuQxCLjPjKWDajSkQ4wx+jQLa5Axl4F3gtvLyHDXhakFiYVZ+RJ0Zleene4SpWRflsrDKw==",
   "success": true,
-  "projectFilePath": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
+  "projectFilePath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\molch\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

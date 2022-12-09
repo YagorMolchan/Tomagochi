@@ -9,19 +9,20 @@ namespace Tomagochi.BLL.DTO
 {
     public class PetDTO
     {
+        [Display(Name="Name")]
         [Required(ErrorMessage = "The name of the pet must be inputted!")]
         public string Name { get; set; }
 
-        [Required(ErrorMessage = "The body of the pet must be chosen!")]
+        [Display(Name = "Body")]
         public string Body { get; set; }
 
-        [Required(ErrorMessage = "The eyes of the pet must be chosen!")]
+        [Display(Name = "Eyes")]
         public string Eye { get; set; }
 
-        [Required(ErrorMessage = "The mouth of the pet must be chosen!")]
+        [Display(Name = "Mouth")]
         public string Mouth { get; set; }
 
-        [Required(ErrorMessage = "The nose of the pet must be chosen!")]
+        [Display(Name = "Nose")]
         public string Nose { get; set; }
 
         public List<string> Bodies { get; set; }

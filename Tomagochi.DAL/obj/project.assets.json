@@ -3485,11 +3485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
+      "projectUniqueName": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
       "projectName": "Tomagochi.DAL",
-      "projectPath": "F:\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
+      "projectPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\Tomagochi.DAL.csproj",
       "packagesPath": "C:\\Users\\molch\\.nuget\\packages\\",
-      "outputPath": "F:\\Tomagochi\\Tomagochi.DAL\\obj\\",
+      "outputPath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

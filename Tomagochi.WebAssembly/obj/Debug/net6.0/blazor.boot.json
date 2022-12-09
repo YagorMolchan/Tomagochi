@@ -10,6 +10,7 @@
       "AutoMapper.dll": "sha256-LTWmKNU9i6fBHVW+MD0Y4saF9Xz7sunXXY69kMlHXNs=",
       "Azure.Core.dll": "sha256-mV+r6h4Q5bYNZWmGqnlVh8j+RvQCuCLcaJBse6KNzZQ=",
       "Azure.Identity.dll": "sha256-3I+KiqSx+vChzrz8oSO5j2hbj7gSL1YGcIsSOkurkYI=",
+      "Blazored.Toast.dll": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
       "Microsoft.AspNet.Identity.Core.dll": "sha256-bZRtKyPkMDcZRcarc8C1tE173hgXd2RbtOyv8pQ8KF8=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-34F+BnSts\/TON8s8cSZc6roVw6IntMd\/sTrN8WOXiy8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-F+JMphRzIMZdciqr5Yf8CXeTA11n\/doTnAdObTPxNm8=",
@@ -38,6 +39,7 @@
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
+      "Microsoft.Extensions.Http.dll": "sha256-BNE58lf0OYDCaXqpNU+dBopgzPzzDgY37gvnao231OI=",
       "Microsoft.Extensions.Identity.Core.dll": "sha256-sjphgadKb5PMDz4PzpLSv6fDZDrVBOzizLrRXSVlIJI=",
       "Microsoft.Extensions.Identity.Stores.dll": "sha256-Wu4Kqcn8jkoVBOVLZ9kFnMahAZecIjgmmzyHjAHBjzk=",
       "Microsoft.Extensions.Logging.dll": "sha256-aDOpB2uaS7QZXIfNrHzPS5m4bR\/ISKCOB01mjR4DUw4=",
@@ -231,17 +233,17 @@
       "mscorlib.dll": "sha256-Q4A\/043fz702a7DDbm+JAtMHV3jKAZ9k8khztTMKp2M=",
       "netstandard.dll": "sha256-W9cwgVmBZsddVw3WVFMC5Gya92UufvbVTNR4+u7pnR0=",
       "System.Private.CoreLib.dll": "sha256-KVnZkFos\/ML\/3S2isVijfmFZXO4zEQeCga6BZvGdTbY=",
-      "Tomagochi.BLL.dll": "sha256-WK8PLpFOZARNvxqns1VwD3mAH9fCHusGeNk5RPHJzRQ=",
-      "Tomagochi.DAL.dll": "sha256-PeeqsXUD9YwA+hOPvTZF1g8mjKBgoERyZQHTs41nzRQ=",
-      "Tomagochi.WebAssembly.dll": "sha256-I070bTazWSU7pDOhVXZr8OfKSkqhixCyHVyhSNVIFWw="
+      "Tomagochi.BLL.dll": "sha256-osXaNmo0QbUmIM8UjaKhjli5v4HiMBgqe2vlbdoVN8g=",
+      "Tomagochi.DAL.dll": "sha256-UCPykSbdRcepmg6qr67NsQytFVbvOqal+uYqFuM1\/es=",
+      "Tomagochi.WebAssembly.dll": "sha256-6nqLsMvXQBN8augvhyqZzzkPMlfDCNiIp6nbEPXB940="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Tomagochi.BLL.pdb": "sha256-99N1RIM0ebLQsBswqgPtVZrcpsu8FGuUw9g5i7JZq8o=",
-      "Tomagochi.DAL.pdb": "sha256-HHB\/9eMJUdCQufowdzd0JIBteOQumGW7nbGPZKGd8DI=",
-      "Tomagochi.WebAssembly.pdb": "sha256-pwwwpJ+iazy9hAL2HTKWOJ2hS8TkscF9blzIhjIEfyA="
+      "Tomagochi.BLL.pdb": "sha256-2MoKfYgzAwrqp8xLPFvU6+oYk0F4ncnhYSggkptYwN4=",
+      "Tomagochi.DAL.pdb": "sha256-VqqbnUrQtmZFwjn1ECf19V7YBp3D\/dzkv7hC46S45EQ=",
+      "Tomagochi.WebAssembly.pdb": "sha256-2cwL0K6bD6\/kbFBGwTd\/oBG6NAWd0lcPCOzpuMPWyUM="
     },
     "runtime": {
       "dotnet.6.0.4.5x2lwx3p30.js": "sha256-WYno\/cK5MDsl5yi4T\/\/QgUskbBfhLL77i+c0uKzO9+c=",

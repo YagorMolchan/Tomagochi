@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JwJplgoaxI0sg223iGKNo698B80OHWe6uyyK8H/aXdt6/Tq9XAybn6+nlltuOmp+ap2UXVEaj+N/zAhZ4J+zWQ==",
+  "dgSpecHash": "GvRCV7/oVuA2zPH8rAXRUl7EehGwnXfn++LVQqH0mTsPglDKqi0pT1Cr7w5MvBfLizczpl1vAonf8q1C7FTKGw==",
   "success": true,
-  "projectFilePath": "F:\\Tomagochi\\Tomagochi.API\\Tomagochi.API.csproj",
+  "projectFilePath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.API\\Tomagochi.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\molch\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

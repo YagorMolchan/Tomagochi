@@ -34,6 +34,10 @@ namespace Tomagochi.API.Controllers
             {
                 return BadRequest();
             }
+            if(_petRepo.HasEntity(p => p.Name == petDTO.Name))
+            {
+                ModelState.AddModelError(nameof(petDTO.Name), "The pet with the same name exists already!!!");
+            }
 
             var pet = _mapper.Map<Pet>(petDTO);
             _petRepo.Create(pet);
