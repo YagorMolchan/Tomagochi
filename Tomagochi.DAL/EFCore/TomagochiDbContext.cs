@@ -24,6 +24,10 @@ namespace Tomagochi.DAL.EFCore
             builder.Entity<User>()
                 .Property(u => u.UserName)
                 .HasComputedColumnSql("FirstName + ' ' + LastName", stored: true);
+
+            builder.Entity<Pet>()
+                .HasIndex(p => p.Name)                
+                .IsUnique();
         }
     }
 }

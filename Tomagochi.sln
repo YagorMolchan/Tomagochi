@@ -5,8 +5,6 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tomagochi.DAL", "Tomagochi.DAL\Tomagochi.DAL.csproj", "{307819B5-1B89-4CC6-B545-AB7423D4CCFA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tomagochi.WEB", "Tomagochi.WEB\Tomagochi.WEB.csproj", "{881A3A90-320D-4AC4-9B55-3A5C918E192B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tomagochi.BLL", "Tomagochi.BLL\Tomagochi.BLL.csproj", "{1DA3EEAC-3B22-4168-93CD-C66E76AF44DC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tomagochi.WebAssembly", "Tomagochi.WebAssembly\Tomagochi.WebAssembly.csproj", "{37368EA9-111D-4ED7-A704-4EBD4D1BD286}"
@@ -23,10 +21,6 @@ Global
 		{307819B5-1B89-4CC6-B545-AB7423D4CCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307819B5-1B89-4CC6-B545-AB7423D4CCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307819B5-1B89-4CC6-B545-AB7423D4CCFA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{881A3A90-320D-4AC4-9B55-3A5C918E192B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{881A3A90-320D-4AC4-9B55-3A5C918E192B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{881A3A90-320D-4AC4-9B55-3A5C918E192B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{881A3A90-320D-4AC4-9B55-3A5C918E192B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1DA3EEAC-3B22-4168-93CD-C66E76AF44DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DA3EEAC-3B22-4168-93CD-C66E76AF44DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DA3EEAC-3B22-4168-93CD-C66E76AF44DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
