@@ -969,17 +969,17 @@ F:\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\AutoMappe
 F:\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\AutoMapper.dll.gz
 F:\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\AutoMapper.dll
 F:\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\eXx7wHAo.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\XaKgNt7h.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\gZKfpaTM.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\oTV5L12A.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\AutoMapper.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Azure.Core.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Azure.Identity.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.FluentValidation.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.5x2lwx3p30.js
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\FluentValidation.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
@@ -1318,7 +1318,9 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.FluentValidation.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.IdentityModel.Tokens.Jwt.dll.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\FluentValidation.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
@@ -1415,6 +1417,7 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
@@ -1457,6 +1460,9 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\AutoMapper.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Azure.Core.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Azure.Identity.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Blazored.FluentValidation.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Blazored.Toast.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\FluentValidation.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
@@ -1698,6 +1704,10 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssembly.MvcApplicationPartsAssemblyInfo.cache
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\eXx7wHAo.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\l2PIGSx1.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\XaKgNt7h.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\iHTg+ctW.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\vL8fuB4p.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\iPGSKyAb.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\WKIaTM6m.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\llwPcNJB.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\m0po5ZoX.gz
@@ -1900,6 +1910,7 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\1FX2cizl.
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\PdlKvQQf.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\IV3qbcDt.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\Kajaxlpe.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\gZKfpaTM.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\0C8CuW67.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\yTXlkbfo.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\ZBybYmiH.gz
@@ -1932,6 +1943,7 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\1+9tjx9P.
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\T1+JcOGd.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\9o6XN85e.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\61xCEO0v.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\oTV5L12A.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\blazor.boot.json
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\staticwebassets.build.json
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\staticwebassets.development.json
@@ -1944,7 +1956,3 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\refint\Tomagochi.WebAssembly.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssembly.pdb
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\ref\Tomagochi.WebAssembly.dll
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Blazored.Toast.dll
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\vL8fuB4p.gz

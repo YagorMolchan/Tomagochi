@@ -5,6 +5,10 @@ using Tomagochi.BLL.Profiles;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Tomagochi.DAL.Entities;
+using FluentValidation.AspNetCore;
+using Tomagochi.BLL.Validators;
+using FluentValidation;
+using Tomagochi.BLL.DTO;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,7 +38,16 @@ var mapperConfig = new MapperConfiguration(mc =>
 });
 builder.Services.AddSingleton(mapperConfig.CreateMapper());
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddFluentValidation(x =>
+    {
+        x.ImplicitlyValidateChildProperties = true;
+        x.ImplicitlyValidateRootCollectionElements = true;
+        x.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());
+    });
+
+builder.Services.AddScoped<IValidator<PetDTO>, PetValidator>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

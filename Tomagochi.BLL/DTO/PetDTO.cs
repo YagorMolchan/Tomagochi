@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using Tomagochi.DAL.Attributes.Pet;
 
 namespace Tomagochi.BLL.DTO
 {
     public class PetDTO
     {
         [Display(Name="Name")]
-        [Required(ErrorMessage = "The name of the pet must be inputted!")]
+        //[Required(ErrorMessage = "The name of the pet must be inputted!")]     
         public string Name { get; set; }
 
         [Display(Name = "Body")]

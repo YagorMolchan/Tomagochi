@@ -1,9 +1,11 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Tomagochi.BLL.DTO;
 using Tomagochi.DAL.Entities;
 using Tomagochi.DAL.Interfaces;
+using FluentValidation.Results;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 
 namespace Tomagochi.API.Controllers
 {
@@ -11,12 +13,14 @@ namespace Tomagochi.API.Controllers
     [ApiController]
     public class PetsController : ControllerBase
     {
-        private readonly IPetRepository _petRepo;
         private readonly IMapper _mapper;
+        private readonly IValidator<PetDTO> _validator;
+        private readonly IPetRepository _petRepo;
 
-        public PetsController(IPetRepository petRepo, IMapper mapper)
+        public PetsController(IPetRepository petRepo, IValidator<PetDTO> validator, IMapper mapper)
         {
             _petRepo = petRepo;
+            _validator = validator;
             _mapper = mapper;
         }
         
@@ -26,24 +30,32 @@ namespace Tomagochi.API.Controllers
             PetDTO petDTO = new PetDTO();
             return Ok(petDTO);
         }
-        
+
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] PetDTO petDTO)
         {
-            if (!ModelState.IsValid)
+            ValidationResult result = await _validator.ValidateAsync(petDTO);
+
+            if (!result.IsValid)
             {
-                return BadRequest();
-            }
-            if(_petRepo.HasEntity(p => p.Name == petDTO.Name))
-            {
-                ModelState.AddModelError(nameof(petDTO.Name), "The pet with the same name exists already!!!");
+                result.AddToModelState(this.ModelState,null);
+                return BadRequest(result);
             }
 
             var pet = _mapper.Map<Pet>(petDTO);
-            _petRepo.Create(pet);
+            _petRepo.CreatePet(pet);
             await _petRepo.SaveAsync();
+            
             return CreatedAtAction(nameof(Create), new { id = pet.Id }, pet);
-
         }
+
+        //public IActionResult CheckName(string name)
+        //{
+        //    if(_petRepo.HasEntity(p => p.Name == name))
+        //    {
+        //        return Json(false);
+        //    }
+        //    return Json(true);
+        //}
     }
 }

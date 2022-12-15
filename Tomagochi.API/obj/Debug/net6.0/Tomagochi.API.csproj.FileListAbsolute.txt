@@ -178,3 +178,10 @@ F:\Tomagochi\Tomagochi\Tomagochi.API\obj\Debug\net6.0\refint\Tomagochi.API.dll
 F:\Tomagochi\Tomagochi\Tomagochi.API\obj\Debug\net6.0\Tomagochi.API.pdb
 F:\Tomagochi\Tomagochi\Tomagochi.API\obj\Debug\net6.0\Tomagochi.API.genruntimeconfig.cache
 F:\Tomagochi\Tomagochi\Tomagochi.API\obj\Debug\net6.0\ref\Tomagochi.API.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\FluentValidation.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\IdentityModel.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\IdentityServer4.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+F:\Tomagochi\Tomagochi\Tomagochi.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

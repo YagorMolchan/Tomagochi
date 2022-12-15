@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WGucdnSEzWUHBLGSLdNyF7YqNge6rh7l01GFk6tf6IjS/5JVV03naUe/xwwnGRMXWxCCVJ2pe+eoH0E0/XzwzA==",
+  "dgSpecHash": "2ew/bMRw48lfcOzT3tQNJ+6E28yFi2RahaPleJesr3wk98Q/I4EDgxo/JpePVAE2UpvcMTcuex1LY6xxhgvBtg==",
   "success": true,
   "projectFilePath": "F:\\Tomagochi\\Tomagochi\\Tomagochi.BLL\\Tomagochi.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\molch\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\molch\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\molch\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
