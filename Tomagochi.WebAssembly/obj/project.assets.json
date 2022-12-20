@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Accelist.FluentValidation.Blazor/4.0.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "9.3.0",
+          "Microsoft.AspNetCore.Components": "5.0.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Accelist.FluentValidation.Blazor.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Accelist.FluentValidation.Blazor.dll": {}
+        }
+      },
       "AutoMapper/12.0.0": {
         "type": "package",
         "dependencies": {
@@ -50,20 +64,6 @@
           "lib/netstandard2.0/Azure.Identity.dll": {}
         }
       },
-      "Blazored.FluentValidation/1.2.0": {
-        "type": "package",
-        "dependencies": {
-          "FluentValidation": "9.0.0-preview1",
-          "Microsoft.AspNetCore.Components": "3.1.1",
-          "Microsoft.AspNetCore.Components.Web": "3.1.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/Blazored.FluentValidation.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Blazored.FluentValidation.dll": {}
-        }
-      },
       "Blazored.Toast/3.2.2": {
         "type": "package",
         "dependencies": {
@@ -84,13 +84,26 @@
           "buildMultiTargeting/Blazored.Toast.props": {}
         }
       },
-      "FluentValidation/11.0.0": {
+      "FluentValidation/11.4.0": {
         "type": "package",
         "compile": {
           "lib/net6.0/FluentValidation.dll": {}
         },
         "runtime": {
           "lib/net6.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.4.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.4.0",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
       "Microsoft.AspNet.Identity.Core/2.2.3": {
@@ -1278,6 +1291,20 @@
       }
     },
     "net6.0/browser-wasm": {
+      "Accelist.FluentValidation.Blazor/4.0.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "9.3.0",
+          "Microsoft.AspNetCore.Components": "5.0.0",
+          "Microsoft.AspNetCore.Components.Web": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Accelist.FluentValidation.Blazor.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Accelist.FluentValidation.Blazor.dll": {}
+        }
+      },
       "AutoMapper/12.0.0": {
         "type": "package",
         "dependencies": {
@@ -1326,20 +1353,6 @@
           "lib/netstandard2.0/Azure.Identity.dll": {}
         }
       },
-      "Blazored.FluentValidation/1.2.0": {
-        "type": "package",
-        "dependencies": {
-          "FluentValidation": "9.0.0-preview1",
-          "Microsoft.AspNetCore.Components": "3.1.1",
-          "Microsoft.AspNetCore.Components.Web": "3.1.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/Blazored.FluentValidation.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Blazored.FluentValidation.dll": {}
-        }
-      },
       "Blazored.Toast/3.2.2": {
         "type": "package",
         "dependencies": {
@@ -1360,13 +1373,26 @@
           "buildMultiTargeting/Blazored.Toast.props": {}
         }
       },
-      "FluentValidation/11.0.0": {
+      "FluentValidation/11.4.0": {
         "type": "package",
         "compile": {
           "lib/net6.0/FluentValidation.dll": {}
         },
         "runtime": {
           "lib/net6.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.4.0": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.4.0",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
       "Microsoft.AspNet.Identity.Core/2.2.3": {
@@ -2546,6 +2572,19 @@
     }
   },
   "libraries": {
+    "Accelist.FluentValidation.Blazor/4.0.0": {
+      "sha512": "QJ+lFcr3CwuqHVqhIehJGrlWaxAGMcf8FoicJ3be5UEhedl0pS+kCVGXWhpGnNjpVCcKobc/fK1p+Sfetx2olQ==",
+      "type": "package",
+      "path": "accelist.fluentvalidation.blazor/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accelist.fluentvalidation.blazor.4.0.0.nupkg.sha512",
+        "accelist.fluentvalidation.blazor.nuspec",
+        "icon.png",
+        "lib/net5.0/Accelist.FluentValidation.Blazor.dll"
+      ]
+    },
     "AutoMapper/12.0.0": {
       "sha512": "0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
       "type": "package",
@@ -2599,18 +2638,6 @@
         "lib/netstandard2.0/Azure.Identity.xml"
       ]
     },
-    "Blazored.FluentValidation/1.2.0": {
-      "sha512": "tQJN0gHztDQDLI2jp/r+InMr3PJxVo0retODZI3DqWLZR/vCIj4/DXyNl8nknsSOPs40ZuJanNY8HRVxxroXnA==",
-      "type": "package",
-      "path": "blazored.fluentvalidation/1.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "blazored.fluentvalidation.1.2.0.nupkg.sha512",
-        "blazored.fluentvalidation.nuspec",
-        "lib/netstandard2.0/Blazored.FluentValidation.dll"
-      ]
-    },
     "Blazored.Toast/3.2.2": {
       "sha512": "6RiWHpgIgJJFWZHnmSZb/6IBP6LS6F5brLDGTBls/B4bTf0SzPsRoTUu2g6y7sY59/PFC1XeKbwXHys9PCe6lw==",
       "type": "package",
@@ -2630,25 +2657,44 @@
         "staticwebassets/blazored-toast.min.css"
       ]
     },
-    "FluentValidation/11.0.0": {
-      "sha512": "cD0VaOQfVZGxp3UFBDET5KztMe1W0QUgk7vP/e1zus0ofALqab5/B5S319+XEFvhw0KEStS3yfCDGpvQM10C6A==",
+    "FluentValidation/11.4.0": {
+      "sha512": "WZJyrNf4suiaI6avVG32W9kmBLC3+V5rDTcLeRJjeU4tDmTyDIOz1459DzCKppXs34YpZg9rCUzDY3M4XxG7Ug==",
       "type": "package",
-      "path": "fluentvalidation/11.0.0",
+      "path": "fluentvalidation/11.4.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.11.0.0.nupkg.sha512",
+        "fluentvalidation.11.4.0.nupkg.sha512",
         "fluentvalidation.nuspec",
         "lib/net5.0/FluentValidation.dll",
         "lib/net5.0/FluentValidation.xml",
         "lib/net6.0/FluentValidation.dll",
         "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
         "lib/netstandard2.0/FluentValidation.dll",
         "lib/netstandard2.0/FluentValidation.xml",
         "lib/netstandard2.1/FluentValidation.dll",
         "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.4.0": {
+      "sha512": "iZXtoDqfRnggHwIbFWnK1sFs3KlTadH5ezNDiXz411OSkUNowBRboaZBcSvx4gEot7CNZdoReUKWYJwow2+mbg==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "Microsoft.AspNet.Identity.Core/2.2.3": {
@@ -5628,8 +5674,9 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Blazored.FluentValidation >= 1.2.0",
+      "Accelist.FluentValidation.Blazor >= 4.0.0",
       "Blazored.Toast >= 3.2.2",
+      "FluentValidation.DependencyInjectionExtensions >= 11.4.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.4",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.4",
       "Microsoft.Extensions.Http >= 7.0.0",
@@ -5688,13 +5735,17 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Blazored.FluentValidation": {
+          "Accelist.FluentValidation.Blazor": {
             "target": "Package",
-            "version": "[1.2.0, )"
+            "version": "[4.0.0, )"
           },
           "Blazored.Toast": {
             "target": "Package",
             "version": "[3.2.2, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[11.4.0, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
