@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n8gqGbC6J+y3HirJvqiWi4grzp8W4FQqb9eRH/0XgQ0=",
+  "Hash": "fFD7cHqgcgpZp03sS93HpYoMBN1eZmX68/N/uafFvYg=",
   "Source": "Tomagochi.WebAssembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\blazored.toast\\3.2.2\\staticwebassets\\blazored-toast.min.css"
+    },
+    {
+      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Accelist.FluentValidation.Blazor.dll",
+      "SourceId": "Tomagochi.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Accelist.FluentValidation.Blazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\accelist.fluentvalidation.blazor\\4.0.0\\lib\\net5.0\\Accelist.FluentValidation.Blazor.dll"
     },
     {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\AutoMapper.dll",
@@ -136,23 +153,6 @@
       "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.4\\build\\net6.0\\blazor.webassembly.js"
     },
     {
-      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.FluentValidation.dll",
-      "SourceId": "Tomagochi.WebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Blazored.FluentValidation.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\blazored.fluentvalidation\\1.2.0\\lib\\netstandard2.0\\Blazored.FluentValidation.dll"
-    },
-    {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Toast.dll",
       "SourceId": "Tomagochi.WebAssembly",
       "SourceType": "Computed",
@@ -221,6 +221,23 @@
       "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.DependencyInjectionExtensions.dll",
+      "SourceId": "Tomagochi.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/FluentValidation.DependencyInjectionExtensions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\lib\\netstandard2.1\\FluentValidation.DependencyInjectionExtensions.dll"
+    },
+    {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.dll",
       "SourceId": "Tomagochi.WebAssembly",
       "SourceType": "Computed",
@@ -235,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\fluentvalidation\\11.0.0\\lib\\net6.0\\FluentValidation.dll"
+      "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\fluentvalidation\\11.4.0\\lib\\net6.0\\FluentValidation.dll"
     },
     {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
@@ -4182,6 +4199,23 @@
       "OriginalItemSpec": "C:\\Users\\molch\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\runtimes\\browser-wasm\\lib\\net6.0\\WindowsBase.dll"
     },
     {
+      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\++Af0zwC.gz",
+      "SourceId": "Tomagochi.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Accelist.FluentValidation.Blazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Accelist.FluentValidation.Blazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Accelist.FluentValidation.Blazor.dll"
+    },
+    {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\+3VnFSqz.gz",
       "SourceId": "Tomagochi.WebAssembly",
       "SourceType": "Computed",
@@ -5236,6 +5270,23 @@
       "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll"
     },
     {
+      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\CGQcQKt8.gz",
+      "SourceId": "Tomagochi.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/FluentValidation.DependencyInjectionExtensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.DependencyInjectionExtensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.DependencyInjectionExtensions.dll"
+    },
+    {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\CKB9B+3R.gz",
       "SourceId": "Tomagochi.WebAssembly",
       "SourceType": "Computed",
@@ -5984,23 +6035,6 @@
       "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\iHTg+ctW.gz",
-      "SourceId": "Tomagochi.WebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Blazored.FluentValidation.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.FluentValidation.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.FluentValidation.dll"
-    },
-    {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\ImBj+4et.gz",
       "SourceId": "Tomagochi.WebAssembly",
       "SourceType": "Computed",
@@ -6016,23 +6050,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IdentityModel.Tokens.Jwt.dll"
-    },
-    {
-      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\iPGSKyAb.gz",
-      "SourceId": "Tomagochi.WebAssembly",
-      "SourceType": "Computed",
-      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/FluentValidation.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.dll"
     },
     {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\IS8x1Gpb.gz",
@@ -6254,6 +6271,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Channels.dll"
+    },
+    {
+      "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\kPt+qdcQ.gz",
+      "SourceId": "Tomagochi.WebAssembly",
+      "SourceType": "Computed",
+      "ContentRoot": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/FluentValidation.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\bin\\Debug\\net6.0\\wwwroot\\_framework\\FluentValidation.dll"
     },
     {
       "Identity": "F:\\Tomagochi\\Tomagochi\\Tomagochi.WebAssembly\\obj\\Debug\\net6.0\\build-gz\\kVAW24nD.gz",

@@ -11,24 +11,24 @@ namespace Tomagochi.BLL.Validators
 {
     public class PetValidator:AbstractValidator<PetDTO>
     {
-        private IEnumerable<Pet> _pets;
+        //private IEnumerable<Pet> _pets;
 
-        public PetValidator(IEnumerable<Pet> pets)
+        public PetValidator()
         {
-            _pets = pets;
+            //_pets = pets;
             RuleFor(p => p.Name).NotNull().NotEmpty()
                 .WithMessage("The name of the pet must be inputted!");
 
-            RuleFor(p => p.Name).Must(IsNameUnique)
-                .WithMessage("The pet with the same name exists already!");
+            //RuleFor(p => p.Name).Must(IsNameUnique)
+            //    .WithMessage("The pet with the same name exists already!");
 
         }
 
-        public bool IsNameUnique(PetDTO editedPet, string newValue)
-        {
-            return _pets.All(pet =>
-              pet.Equals(editedPet) || pet.Name != newValue);
-        }
+        //public bool IsNameUnique(PetDTO editedPet, string newValue)
+        //{
+        //    return _pets.All(pet =>
+        //      pet.Equals(editedPet) || pet.Name != newValue);
+        //}
 
 
     }

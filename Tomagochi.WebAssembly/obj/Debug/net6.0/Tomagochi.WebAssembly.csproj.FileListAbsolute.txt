@@ -974,7 +974,6 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Azure.Identity.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.FluentValidation.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.Toast.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.5x2lwx3p30.js
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
@@ -1318,7 +1317,6 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Blazored.FluentValidation.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.IdentityModel.Tokens.Jwt.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\FluentValidation.dll.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
@@ -1460,7 +1458,6 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\AutoMapper.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Azure.Core.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Azure.Identity.dll
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Blazored.FluentValidation.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Blazored.Toast.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\FluentValidation.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
@@ -1705,9 +1702,7 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\eXx7wHAo.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\l2PIGSx1.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\XaKgNt7h.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\iHTg+ctW.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\vL8fuB4p.gz
-F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\iPGSKyAb.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\WKIaTM6m.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\llwPcNJB.gz
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\m0po5ZoX.gz
@@ -1956,3 +1951,12 @@ F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssem
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\refint\Tomagochi.WebAssembly.dll
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\Tomagochi.WebAssembly.pdb
 F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\ref\Tomagochi.WebAssembly.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Accelist.FluentValidation.Blazor.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\FluentValidation.DependencyInjectionExtensions.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\Accelist.FluentValidation.Blazor.dll.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\wwwroot\_framework\FluentValidation.DependencyInjectionExtensions.dll.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\Accelist.FluentValidation.Blazor.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\++Af0zwC.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\kPt+qdcQ.gz
+F:\Tomagochi\Tomagochi\Tomagochi.WebAssembly\obj\Debug\net6.0\build-gz\CGQcQKt8.gz

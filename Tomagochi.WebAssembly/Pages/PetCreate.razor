@@ -6,9 +6,11 @@
 @inject IPetService _petService;
 @inject IToastService _toastService;
 
+
+
 <h2>Create Pet Form</h2>
 <EditForm Model="_petDTO" OnValidSubmit="Create">
-    <FluentValidationValidator />
+    <FluentValidationValidator/>
     <div class="form-group">
         <label for="Name" class="form-label">Name</label>
         <div class="col-md-10">
@@ -102,6 +104,7 @@
 @code {
 
     private PetDTO _petDTO = new PetDTO();
+    private PetValidator _petValidator = new PetValidator();
 
     protected override async Task OnInitializedAsync()
     {
@@ -110,7 +113,15 @@
 
     private async Task Create()
     {
-        await _petService.CreatePet(_petDTO);
+        Console.WriteLine("Yes");
+        Console.ReadKey();
+        //var validationResult = await _petValidator.ValidateAsync(_petDTO);
+
+        //if (validationResult.IsValid)
+        //{            
+        //    await _petService.CreatePet(_petDTO);
+        //}
+
     }
 
     private void OnBodyClick(string body){
